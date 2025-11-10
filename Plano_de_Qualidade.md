@@ -27,9 +27,9 @@
 ## 3. Papéis e Responsabilidades
 
 **Gerente de Projeto:** Ycaro Entriel  
-**Desenvolvedores:** Maria Silva  
-**Equipe de QA:** João Costa  
-**Designer:** Ana Pereira  
+**Desenvolvedores:** a definir
+**Equipe de QA:** a definir
+**Designer:** a definir 
 
 ---
 
